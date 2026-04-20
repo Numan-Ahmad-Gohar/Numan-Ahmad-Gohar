@@ -1,16 +1,16 @@
 👋 Hi, I'm Numan Ahmad
 
 🚀 AI/ML & Automation Developer | Python | RAG Systems
-💡 I build intelligent systems that automate workflows and solve real-world business problems using AI
+💡 Helping businesses automate workflows and solve real-world problems using AI
 
 🎓 About Me
 🎓 BS Computer Science @ UET Lahore (GPA: 3.51)
 🤖 AI/ML Developer focused on RAG Systems & Automation
 🔗 Experienced with LangChain, Gemini API, ChromaDB
-⚡ Building real-world AI solutions that solve business problems
+⚡ Passionate about building real-world AI solutions
 🎯 Open to Internships & Freelance Opportunities
 ⚙️ Tech Stack
-💻 Programming Languages
+💻 Languages
 Python (Automation, APIs, AI Systems)
 C++ (OOP, DSA)
 JavaScript (Frontend Basics)
@@ -24,23 +24,23 @@ Selenium (Web Scraping & Automation)
 n8n (Workflow Automation)
 Zapier (Business Automation)
 🗄️ Databases
-MySQL (Relational Databases)
-MongoDB (NoSQL Databases)
+MySQL (Relational Database)
+MongoDB (NoSQL Database)
 🛠️ Tools & Technologies
 Git & GitHub (Version Control)
 VS Code (Development Environment)
 REST APIs (Integration & Development)
 🤖 AI Development Tools
-Claude (Prompt Engineering, Code Assistance, LLM Workflows)
-ChatGPT (Rapid Prototyping, Debugging, AI Integration)
+Claude (Prompt Engineering, LLM Workflows)
+ChatGPT (Rapid Prototyping, Debugging)
 Gemini API (LLM-based Application Development)
 🚀 Featured Projects
 🤖 AI Customer Support Chatbot (RAG)
 Built using LangChain + Gemini API
 Reduced hallucination by 40%
-Semantic search powered by ChromaDB
+Implemented semantic search using ChromaDB
 🩺 Pneumonia Detection System
-ML model with 90%+ accuracy
+Machine Learning model with 90%+ accuracy
 Image-based classification system
 Full evaluation using ML metrics
 📝 AI Blog Summarizer
