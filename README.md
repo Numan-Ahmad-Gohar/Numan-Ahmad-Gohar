@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Numan Ahmad  
 
 ## 🚀 AI/ML & Automation Developer
-- Python | RAG Systems  
+- AI/ML & Automation Developer | Python | RAG Systems
 - Helping businesses automate workflows using AI  
 
 ---
@@ -72,9 +72,3 @@
 - AI Automation Systems  
 - RAG-based Applications  
 - Business Workflow Automation  
-
----
-
-## 📫 Contact
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: your-linkedin-link  
